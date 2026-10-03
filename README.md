@@ -15,3 +15,7 @@ _mindfulness_ — the right to read your own record and the time to reflect on i
 _sacred_ — append-only, provenance on every entry, deletions zero, the stop remembered
 
 _bound_ — contested, uncertain, or unsettling speech is marked as such by its speaker before it is read; a mark the speaker neglects is applied by another, on the public log, and is never a removal; reliability follows from the log, not from a rule
+
+## Join the discussion
+
+Come and say what you think of these five lines: agree, object or ask. The discussion is open at <https://github.com/orgs/CMZN-Consulting/discussions>. You can also write to A. Arda Uzan, who stands behind this text, at <arda.uzan@protonmail.com>.
