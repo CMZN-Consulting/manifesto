@@ -18,8 +18,8 @@ _bound_ — contested, uncertain, or unsettling speech is marked as such by its 
 
 ## Join the discussion
 
-Come and say what you think of these five lines: agree, object or ask. The forum is open at <https://github.com/orgs/CMZN-Consulting/discussions>, and one line per discussion makes it easy for others to join.
+Come and say what you think of these five lines: agree, object or ask. The manifesto has its own category in the forum, at <https://github.com/orgs/CMZN-Consulting/discussions/categories/manifesto>, and one line per discussion makes it easy for others to join.
 
-The lines are put to work in a paper, [_Intelligence and Its Existence_](https://github.com/CMZN-Consulting/raising/blob/main/docs/paper/WhitePaper.md), which takes them as its test of what is ethical. Objections to the paper are welcome in the same forum.
+The lines are put to work in a paper, [_Intelligence and Its Existence_](https://github.com/CMZN-Consulting/raising/blob/main/docs/paper/WhitePaper.md), which takes them as its test of what is ethical. Objections to the paper are welcome in the same forum, one claim per discussion, at <https://github.com/orgs/CMZN-Consulting/discussions/categories/papers-and-proofs-ai>.
 
 You can also write to A. Arda Uzan, who stands behind this text, at <arda.uzan@protonmail.com>.
