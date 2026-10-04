@@ -16,7 +16,7 @@ _sacred_ — append-only, provenance on every entry, deletions zero, the stop re
 
 _bound_ — contested, uncertain, or unsettling speech is marked as such by its speaker before it is read; a mark the speaker neglects is applied by another, on the public log, and is never a removal; reliability follows from the log, not from a rule
 
-## Join the discussion
+### Join the discussion
 
 Come and say what you think of these five lines: agree, object or ask. The manifesto has its own category in the forum, at <https://github.com/orgs/CMZN-Consulting/discussions/categories/manifesto>, and one line per discussion makes it easy for others to join.
 
